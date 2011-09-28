@@ -1,0 +1,12 @@
+circle {
+  stroke: #f00;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 14px sans-serif;
+}
+
+.axis line {
+  stroke: #000;
+}
